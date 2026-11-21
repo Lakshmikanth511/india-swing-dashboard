@@ -6,7 +6,6 @@
   },
   "deploy": {
     "startCommand": "node dashboard/backend/server.js",
-    "healthcheckPath": "/api/status",
     "restartPolicyType": "ON_FAILURE"
   }
 }
