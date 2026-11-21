@@ -1,0 +1,495 @@
+360ONE|360 ONE WAM LIMITED|EQ|No Band|yes
+AADHARHFC|Aadhar Housing Finance Limited|EQ|20|no
+AARTIIND|Aarti Industries Limited|EQ|20|no
+AAVAS|Aavas Financiers Limited|EQ|20|no
+ABB|ABB India Limited|EQ|No Band|yes
+ABBOTINDIA|Abbott India Limited|EQ|20|no
+ABCAPITAL|Aditya Birla Capital Limited|EQ|No Band|yes
+ABDL|Allied Blenders and Distillers Limited|EQ|10|no
+ABREL|Aditya Birla Real Estate Limited|EQ|20|no
+ABSLAMC|Aditya Birla Sun Life AMC Limited|EQ|20|no
+ACC|ACC Limited|EQ|20|no
+ACE|Action Construction Equipment Limited|EQ|20|no
+ACMESOLAR|Acme Solar Holdings Limited|EQ|20|no
+ACUTAAS|Acutaas Chemicals Limited|EQ|20|no
+ADANIENSOL|Adani Energy Solutions Limited|EQ|No Band|yes
+ADANIENT|Adani Enterprises Limited|EQ|No Band|yes
+ADANIGREEN|Adani Green Energy Limited|EQ|No Band|yes
+ADANIPORTS|Adani Ports and Special Economic Zone Limited|EQ|No Band|yes
+ADANIPOWER|Adani Power Limited|EQ|No Band|yes
+AEGISLOG|Aegis Logistics Limited|EQ|20|no
+AEGISVOPAK|Aegis Vopak Terminals Limited|EQ|10|no
+AETHER|Aether Industries Limited|EQ|20|no
+AFCONS|Afcons Infrastructure Limited|EQ|20|no
+AFFLE|Affle 3i Limited|EQ|20|no
+AIAENG|AIA Engineering Limited|EQ|20|no
+AIIL|Authum Investment & Infrastructure Limited|EQ|20|no
+AJANTPHARM|Ajanta Pharma Limited|EQ|20|no
+ALKEM|Alkem Laboratories Limited|EQ|No Band|yes
+AMBER|Amber Enterprises India Limited|EQ|No Band|yes
+AMBUJACEM|Ambuja Cements Limited|EQ|No Band|yes
+ANANDRATHI|Anand Rathi Wealth Limited|EQ|No Band|yes
+ANANTRAJ|Anant Raj Limited|EQ|20|no
+ANGELONE|Angel One Limited|EQ|No Band|yes
+ANTHEM|Anthem Biosciences Limited|EQ|20|no
+ANURAS|Anupam Rasayan India Limited|EQ|20|no
+APARINDS|Apar Industries Limited|EQ|20|no
+APLAPOLLO|APL Apollo Tubes Limited|EQ|No Band|yes
+APOLLOHOSP|Apollo Hospitals Enterprise Limited|EQ|No Band|yes
+APOLLOTYRE|Apollo Tyres Limited|EQ|20|no
+APTUS|Aptus Value Housing Finance India Limited|EQ|20|no
+ARE&M|Amara Raja Energy & Mobility Limited|EQ|20|no
+ASAHIINDIA|Asahi India Glass Limited|EQ|20|no
+ASHOKLEY|Ashok Leyland Limited|EQ|No Band|yes
+ASIANPAINT|Asian Paints Limited|EQ|No Band|yes
+ASTERDM|Aster DM Quality Care Limited|EQ|20|no
+ASTRAL|Astral Limited|EQ|No Band|yes
+ATGL|Adani Total Gas Limited|EQ|20|no
+ATHERENERG|Ather Energy Limited|EQ|No Band|yes
+ATUL|Atul Limited|EQ|20|no
+AUBANK|AU Small Finance Bank Limited|EQ|No Band|yes
+AUROPHARMA|Aurobindo Pharma Limited|EQ|No Band|yes
+AVANTIFEED|Avanti Feeds Limited|EQ|20|no
+AWL|AWL Agri Business Limited|EQ|20|no
+AXISBANK|Axis Bank Limited|EQ|No Band|yes
+AZAD|Azad Engineering Limited|EQ|20|no
+BAJAJ-AUTO|Bajaj Auto Limited|EQ|No Band|yes
+BAJAJFINSV|Bajaj Finserv Limited|EQ|No Band|yes
+BAJAJHFL|Bajaj Housing Finance Limited|EQ|10|no
+BAJAJHLDNG|Bajaj Holdings & Investment Limited|EQ|20|no
+BAJFINANCE|Bajaj Finance Limited|EQ|No Band|yes
+BALKRISIND|Balkrishna Industries Limited|EQ|20|no
+BALRAMCHIN|Balrampur Chini Mills Limited|EQ|20|no
+BANDHANBNK|Bandhan Bank Limited|EQ|No Band|yes
+BANKBARODA|Bank of Baroda|EQ|No Band|yes
+BANKINDIA|Bank of India|EQ|No Band|yes
+BATAINDIA|Bata India Limited|EQ|20|no
+BBOX|Black Box Limited|EQ|20|no
+BDL|Bharat Dynamics Limited|EQ|No Band|yes
+BEL|Bharat Electronics Limited|EQ|No Band|yes
+BELRISE|Belrise Industries Limited|EQ|20|no
+BEML|BEML Limited|EQ|20|no
+BERGEPAINT|Berger Paints (I) Limited|EQ|20|no
+BHARATCOAL|Bharat Coking Coal Limited|EQ|20|no
+BHARATFORG|Bharat Forge Limited|EQ|No Band|yes
+BHARTIARTL|Bharti Airtel Limited|EQ|No Band|yes
+BHARTIHEXA|Bharti Hexacom Limited|EQ|20|no
+BHEL|Bharat Heavy Electricals Limited|EQ|No Band|yes
+BIOCON|Biocon Limited|EQ|No Band|yes
+BLS|BLS International Services Limited|EQ|20|no
+BLUESTARCO|Blue Star Limited|EQ|No Band|yes
+BOSCHLTD|Bosch Limited|EQ|No Band|yes
+BPCL|Bharat Petroleum Corporation Limited|EQ|No Band|yes
+BRIGADE|Brigade Enterprises Limited|EQ|20|no
+BRITANNIA|Britannia Industries Limited|EQ|No Band|yes
+BSE|BSE Limited|EQ|No Band|yes
+BSOFT|BIRLASOFT LIMITED|EQ|20|no
+CAMS|Computer Age Management Services Limited|EQ|No Band|yes
+CANBK|Canara Bank|EQ|No Band|yes
+CANFINHOME|Can Fin Homes Limited|EQ|20|no
+CANHLIFE|Canara HSBC Life Insurance Company Limited|EQ|20|no
+CAPLIPOINT|Caplin Point Laboratories Limited|EQ|20|no
+CARBORUNIV|Carborundum Universal Limited|EQ|20|no
+CARTRADE|Cartrade Tech Limited|EQ|20|no
+CASTROLIND|Castrol India Limited|EQ|20|no
+CCL|CCL Products (India) Limited|EQ|20|no
+CDSL|Central Depository Services (India) Limited|EQ|No Band|yes
+CEATLTD|CEAT Limited|EQ|20|no
+CEMPRO|Cemindia Projects Limited|EQ|10|no
+CENTRALBK|Central Bank of India|EQ|20|no
+CESC|CESC Limited|EQ|20|no
+CGCL|Capri Global Capital Limited|EQ|20|no
+CGPOWER|CG Power and Industrial Solutions Limited|EQ|No Band|yes
+CHAMBLFERT|Chambal Fertilizers & Chemicals Limited|EQ|20|no
+CHENNPETRO|Chennai Petroleum Corporation Limited|EQ|20|no
+CHOICEIN|Choice International Limited|EQ|20|no
+CHOLAFIN|Cholamandalam Investment and Finance Company Limited|EQ|No Band|yes
+CHOLAHLDNG|Cholamandalam Financial Holdings Limited|EQ|20|no
+CIEINDIA|CIE Automotive India Limited|EQ|20|no
+CIPLA|Cipla Limited|EQ|No Band|yes
+CLEAN|Clean Science and Technology Limited|EQ|20|no
+CLEANMAX|Clean Max Enviro Energy Solutions Limited|EQ|20|no
+CMPDI|Central Mine Planning & Design Institute Limited|EQ|20|no
+COALINDIA|Coal India Limited|EQ|No Band|yes
+COCHINSHIP|Cochin Shipyard Limited|EQ|No Band|yes
+COFORGE|Coforge Limited|EQ|No Band|yes
+COHANCE|Cohance Lifesciences Limited|EQ|20|no
+COLPAL|Colgate Palmolive (India) Limited|EQ|No Band|yes
+CONCOR|Container Corporation of India Limited|EQ|No Band|yes
+CONCORDBIO|Concord Biotech Limited|EQ|20|no
+COROMANDEL|Coromandel International Limited|EQ|No Band|yes
+CPPLUS|Aditya Infotech Limited|EQ|10|no
+CRAFTSMAN|Craftsman Automation Limited|EQ|20|no
+CREDITACC|CREDITACCESS GRAMEEN LIMITED|EQ|20|no
+CRISIL|Crisil Limited|EQ|20|no
+CROMPTON|Crompton Greaves Consumer Electricals Limited|EQ|No Band|yes
+CUB|City Union Bank Limited|EQ|No Band|yes
+CUMMINSIND|Cummins India Limited|EQ|No Band|yes
+CUPID|Cupid Limited|EQ|20|no
+CYIENT|Cyient Limited|EQ|20|no
+DABUR|Dabur India Limited|EQ|No Band|yes
+DALBHARAT|Dalmia Bharat Limited|EQ|20|no
+DATAPATTNS|Data Patterns (India) Limited|EQ|No Band|yes
+DEEPAKFERT|Deepak Fertilizers and Petrochemicals Corporation Limited|EQ|20|no
+DEEPAKNTR|Deepak Nitrite Limited|EQ|20|no
+DELHIVERY|Delhivery Limited|EQ|No Band|yes
+DEVYANI|Devyani International Limited|EQ|20|no
+DIVISLAB|Divi's Laboratories Limited|EQ|No Band|yes
+DIXON|Dixon Technologies (India) Limited|EQ|No Band|yes
+DLF|DLF Limited|EQ|No Band|yes
+DMART|Avenue Supermarts Limited|EQ|No Band|yes
+DOMS|DOMS Industries Limited|EQ|20|no
+DRREDDY|Dr. Reddy's Laboratories Limited|EQ|No Band|yes
+ECLERX|eClerx Services Limited|EQ|20|no
+EICHERMOT|Eicher Motors Limited|EQ|No Band|yes
+EIDPARRY|EID Parry India Limited|EQ|20|no
+EIHOTEL|EIH Limited|EQ|20|no
+ELECON|Elecon Engineering Company Limited|EQ|20|no
+ELGIEQUIP|Elgi Equipments Limited|EQ|20|no
+EMAMILTD|Emami Limited|EQ|20|no
+EMCURE|Emcure Pharmaceuticals Limited|EQ|10|no
+EMMVEE|Emmvee Photovoltaic Power Limited|EQ|10|no
+ENDURANCE|Endurance Technologies Limited|EQ|20|no
+ENGINERSIN|Engineers India Limited|EQ|20|no
+ENRIN|Siemens Energy India Limited|EQ|No Band|yes
+ESCORTS|Escorts Kubota Limited|EQ|20|no
+ETERNAL|ETERNAL LIMITED|EQ|No Band|yes
+EXIDEIND|Exide Industries Limited|EQ|20|no
+FACT|Fertilizers and Chemicals Travancore Limited|EQ|20|no
+FEDERALBNK|The Federal Bank Limited|EQ|No Band|yes
+FINCABLES|Finolex Cables Limited|EQ|20|no
+FIRSTCRY|Brainbees Solutions Limited|EQ|20|no
+FIVESTAR|Five-Star Business Finance Limited|EQ|20|no
+FLUOROCHEM|Gujarat Fluorochemicals Limited|EQ|20|no
+FORCEMOT|FORCE MOTORS LTD|EQ|No Band|yes
+FORTIS|Fortis Healthcare Limited|EQ|No Band|yes
+FRACTAL|Fractal Analytics Limited|EQ|20|no
+FSL|Firstsource Solutions Limited|EQ|20|no
+GABRIEL|Gabriel India Limited|EQ|20|no
+GAIL|GAIL (India) Limited|EQ|No Band|yes
+GALLANTT|Gallantt Ispat Limited|EQ|20|no
+GESHIP|The Great Eastern Shipping Company Limited|EQ|20|no
+GICRE|General Insurance Corporation of India|EQ|20|no
+GILLETTE|Gillette India Limited|EQ|20|no
+GLAND|Gland Pharma Limited|EQ|20|no
+GLAXO|GlaxoSmithKline Pharmaceuticals Limited|EQ|20|no
+GLENMARK|Glenmark Pharmaceuticals Limited|EQ|No Band|yes
+GMDCLTD|Gujarat Mineral Development Corporation Limited|EQ|20|no
+GMRAIRPORT|GMR AIRPORTS LIMITED|EQ|No Band|yes
+GODFRYPHLP|Godfrey Phillips India Limited|EQ|No Band|yes
+GODREJCP|Godrej Consumer Products Limited|EQ|No Band|yes
+GODREJIND|Godrej Industries Limited|EQ|20|no
+GODREJPROP|Godrej Properties Limited|EQ|No Band|yes
+GPIL|Godawari Power And Ispat limited|EQ|20|no
+GRANULES|Granules India Limited|EQ|20|no
+GRAPHITE|Graphite India Limited|EQ|20|no
+GRASIM|Grasim Industries Limited|EQ|No Band|yes
+GRAVITA|Gravita India Limited|EQ|20|no
+GROWW|Billionbrains Garage Ventures Limited|EQ|20|no
+GRSE|Garden Reach Shipbuilders & Engineers Limited|EQ|20|no
+GVT&D|GE Vernova T&D India Limited|EQ|No Band|yes
+HAL|Hindustan Aeronautics Limited|EQ|No Band|yes
+HAVELLS|Havells India Limited|EQ|No Band|yes
+HBLENGINE|HBL Engineering Limited|EQ|20|no
+HCLTECH|HCL Technologies Limited|EQ|No Band|yes
+HDBFS|HDB Financial Services Limited|EQ|20|no
+HDFCAMC|HDFC Asset Management Company Limited|EQ|No Band|yes
+HDFCBANK|HDFC Bank Limited|EQ|No Band|yes
+HDFCLIFE|HDFC Life Insurance Company Limited|EQ|No Band|yes
+HEGAM|HEG Advanced Materials Limited|EQ|20|no
+HEROMOTOCO|Hero MotoCorp Limited|EQ|No Band|yes
+HEXT|Hexaware Technologies Limited|EQ|20|no
+HINDALCO|Hindalco Industries Limited|EQ|No Band|yes
+HINDCOPPER|Hindustan Copper Limited|EQ|20|no
+HINDPETRO|Hindustan Petroleum Corporation Limited|EQ|No Band|yes
+HINDUNILVR|Hindustan Unilever Limited|EQ|No Band|yes
+HINDZINC|Hindustan Zinc Limited|EQ|No Band|yes
+HOMEFIRST|Home First Finance Company India Limited|EQ|20|no
+HONASA|Honasa Consumer Limited|EQ|20|no
+HONAUT|Honeywell Automation India Limited|EQ|20|no
+HSCL|Himadri Speciality Chemical Limited|EQ|20|no
+HUDCO|Housing & Urban Development Corporation Limited|EQ|20|no
+HYUNDAI|Hyundai Motor India Limited|EQ|No Band|yes
+ICICIAMC|ICICI Prudential Asset Management Company Limited|EQ|10|no
+ICICIBANK|ICICI Bank Limited|EQ|No Band|yes
+ICICIGI|ICICI Lombard General Insurance Company Limited|EQ|No Band|yes
+ICICILIFE|ICICI Life Insurance Limited|EQ|No Band|yes
+IDBI|IDBI Bank Limited|EQ|20|no
+IDEA|Vodafone Idea Limited|EQ|No Band|yes
+IDFCFIRSTB|IDFC First Bank Limited|EQ|No Band|yes
+IEX|Indian Energy Exchange Limited|EQ|No Band|yes
+IFCI|IFCI Limited|EQ|20|no
+IGIL|International Gemological Institute Limited|EQ|10|no
+IGL|Indraprastha Gas Limited|EQ|20|no
+IIFL|IIFL Finance Limited|EQ|20|no
+IKS|Inventurus Knowledge Solutions Limited|EQ|20|no
+INDHOTEL|The Indian Hotels Company Limited|EQ|No Band|yes
+INDIACEM|The India Cements Limited|EQ|20|no
+INDIAMART|Indiamart Intermesh Limited|EQ|20|no
+INDIANB|Indian Bank|EQ|No Band|yes
+INDIGO|InterGlobe Aviation Limited|EQ|No Band|yes
+INDUSINDBK|IndusInd Bank Limited|EQ|No Band|yes
+INDUSTOWER|Indus Towers Limited|EQ|No Band|yes
+INFY|Infosys Limited|EQ|No Band|yes
+INOXINDIA|INOX India Limited|EQ|20|no
+INOXWIND|Inox Wind Limited|EQ|No Band|yes
+INTELLECT|Intellect Design Arena Limited|EQ|20|no
+IOB|Indian Overseas Bank|EQ|20|no
+IOC|Indian Oil Corporation Limited|EQ|No Band|yes
+IPCALAB|IPCA Laboratories Limited|EQ|20|no
+IRB|IRB Infrastructure Developers Limited|EQ|20|no
+IRCON|Ircon International Limited|EQ|20|no
+IRCTC|Indian Railway Catering And Tourism Corporation Limited|EQ|20|no
+IREDA|Indian Renewable Energy Development Agency Limited|EQ|No Band|yes
+IRFC|Indian Railway Finance Corporation Limited|EQ|No Band|yes
+ITC|ITC Limited|EQ|No Band|yes
+ITCHOTELS|ITC Hotels Limited|EQ|20|no
+ITI|ITI Limited|EQ|20|no
+J&KBANK|The Jammu & Kashmir Bank Limited|EQ|20|no
+JAINREC|Jain Resource Recycling Limited|EQ|20|no
+JBMA|JBM Auto Limited|EQ|20|no
+JINDALSAW|Jindal Saw Limited|EQ|20|no
+JINDALSTEL|JINDAL STEEL LIMITED|EQ|No Band|yes
+JIOFIN|Jio Financial Services Limited|EQ|No Band|yes
+JKCEMENT|JK Cement Limited|EQ|20|no
+JKTYRE|JK Tyre & Industries Limited|EQ|20|no
+JMFINANCIL|JM Financial Limited|EQ|20|no
+JPPOWER|Jaiprakash Power Ventures Limited|EQ|20|no
+JSL|Jindal Stainless Limited|EQ|20|no
+JSWCEMENT|JSW Cement Limited|EQ|20|no
+JSWENERGY|JSW Energy Limited|EQ|No Band|yes
+JSWINFRA|JSW Infrastructure Limited|EQ|20|no
+JSWSTEEL|JSW Steel Limited|EQ|No Band|yes
+JUBLFOOD|Jubilant Foodworks Limited|EQ|No Band|yes
+JUBLINGREA|Jubilant Ingrevia Limited|EQ|20|no
+JWL|Jupiter Wagons Limited|EQ|20|no
+JYOTICNC|Jyoti CNC Automation Limited|EQ|20|no
+KAJARIACER|Kajaria Ceramics Limited|EQ|20|no
+KALYANKJIL|Kalyan Jewellers India Limited|EQ|No Band|yes
+KARURVYSYA|Karur Vysya Bank Limited|EQ|No Band|yes
+KAYNES|Kaynes Technology India Limited|EQ|No Band|yes
+KEC|KEC International Limited|EQ|20|no
+KEI|KEI Industries Limited|EQ|No Band|yes
+KFINTECH|Kfin Technologies Limited|EQ|No Band|yes
+KIMS|Krishna Institute of Medical Sciences Limited|EQ|20|no
+KIRLOSBROS|Kirloskar Brothers Limited|EQ|20|no
+KIRLOSENG|Kirloskar Oil Engines Limited|EQ|20|no
+KOTAKBANK|Kotak Mahindra Bank Limited|EQ|No Band|yes
+KPIL|Kalpataru Projects International Limited|EQ|20|no
+KPITTECH|KPIT Technologies Limited|EQ|No Band|yes
+KPRMILL|K.P.R. Mill Limited|EQ|20|no
+KSB|Ksb Limited|EQ|20|no
+LALPATHLAB|Dr. Lal Path Labs Ltd.|EQ|20|no
+LAURUSLABS|Laurus Labs Limited|EQ|No Band|yes
+LEMONTREE|Lemon Tree Hotels Limited|EQ|20|no
+LENSKART|Lenskart Solutions Limited|EQ|20|no
+LGEINDIA|LG Electronics India Limited|EQ|10|no
+LICHSGFIN|LIC Housing Finance Limited|EQ|No Band|yes
+LICI|Life Insurance Corporation Of India|EQ|No Band|yes
+LINDEINDIA|Linde India Limited|EQ|20|no
+LLOYDSME|Lloyds Metals And Energy Limited|EQ|20|no
+LODHA|Lodha Developers Limited|EQ|No Band|yes
+LT|Larsen & Toubro Limited|EQ|No Band|yes
+LTF|L&T Finance Limited|EQ|No Band|yes
+LTFOODS|LT Foods Limited|EQ|20|no
+LTM|LTM Limited|EQ|No Band|yes
+LTTS|L&T Technology Services Limited|EQ|20|no
+LUPIN|Lupin Limited|EQ|No Band|yes
+M&M|Mahindra & Mahindra Limited|EQ|No Band|yes
+M&MFIN|Mahindra & Mahindra Financial Services Limited|EQ|20|no
+MAHABANK|Bank of Maharashtra|EQ|No Band|yes
+MANAPPURAM|Manappuram Finance Limited|EQ|No Band|yes
+MANKIND|Mankind Pharma Limited|EQ|No Band|yes
+MARICO|Marico Limited|EQ|No Band|yes
+MARUTI|Maruti Suzuki India Limited|EQ|No Band|yes
+MAXHEALTH|Max Healthcare Institute Limited|EQ|No Band|yes
+MAZDOCK|Mazagon Dock Shipbuilders Limited|EQ|No Band|yes
+MCX|Multi Commodity Exchange of India Limited|EQ|No Band|yes
+MEDANTA|Global Health Limited|EQ|20|no
+MEESHO|Meesho Limited|EQ|20|no
+MFSL|Max Financial Services Limited|EQ|No Band|yes
+MGL|Mahanagar Gas Limited|EQ|20|no
+MINDACORP|Minda Corporation Limited|EQ|20|no
+MMTC|MMTC Limited|EQ|20|no
+MOTHERSON|Samvardhana Motherson International Limited|EQ|No Band|yes
+MOTILALOFS|Motilal Oswal Financial Services Limited|EQ|No Band|yes
+MPHASIS|MphasiS Limited|EQ|No Band|yes
+MRF|MRF Limited|EQ|20|no
+MRPL|Mangalore Refinery and Petrochemicals Limited|EQ|20|no
+MSUMI|Motherson Sumi Wiring India Limited|EQ|20|no
+MTARTECH|Mtar Technologies Limited|EQ|20|no
+MUTHOOTFIN|Muthoot Finance Limited|EQ|No Band|yes
+NAM-INDIA|Nippon Life India Asset Management Limited|EQ|No Band|yes
+NATCOPHARM|Natco Pharma Limited|EQ|20|no
+NATIONALUM|National Aluminium Company Limited|EQ|No Band|yes
+NAUKRI|Info Edge (India) Limited|EQ|No Band|yes
+NAVA|NAVA LIMITED|EQ|20|no
+NAVINFLUOR|Navin Fluorine International Limited|EQ|No Band|yes
+NBCC|NBCC (India) Limited|EQ|No Band|yes
+NCC|NCC Limited|EQ|20|no
+NESTLEIND|Nestle India Limited|EQ|No Band|yes
+NETWEB|Netweb Technologies India Limited|EQ|20|no
+NEULANDLAB|Neuland Laboratories Limited|EQ|20|no
+NH|Narayana Hrudayalaya Ltd.|EQ|20|no
+NHPC|NHPC Limited|EQ|No Band|yes
+NIACL|The New India Assurance Company Limited|EQ|20|no
+NLCINDIA|NLC India Limited|EQ|20|no
+NMDC|NMDC Limited|EQ|No Band|yes
+NSLNISP|NMDC Steel Limited|EQ|20|no
+NTPC|NTPC Limited|EQ|No Band|yes
+NTPCGREEN|NTPC Green Energy Limited|EQ|20|no
+NUVAMA|Nuvama Wealth Management Limited|EQ|20|no
+NUVOCO|Nuvoco Vistas Corporation Limited|EQ|20|no
+NYKAA|FSN E-Commerce Ventures Limited|EQ|No Band|yes
+OBEROIRLTY|Oberoi Realty Limited|EQ|No Band|yes
+OFSS|Oracle Financial Services Software Limited|EQ|No Band|yes
+OIL|Oil India Limited|EQ|No Band|yes
+OLAELEC|Ola Electric Mobility Limited|EQ|20|no
+OLECTRA|Olectra Greentech Limited|EQ|20|no
+ONESOURCE|Onesource Specialty Pharma Limited|EQ|20|no
+ONGC|Oil & Natural Gas Corporation Limited|EQ|No Band|yes
+PAGEIND|Page Industries Limited|EQ|No Band|yes
+PARADEEP|Paradeep Phosphates Limited|EQ|20|no
+PATANJALI|Patanjali Foods Limited|EQ|No Band|yes
+PAYTM|One 97 Communications Limited|EQ|No Band|yes
+PCBL|PCBL Chemical Limited|EQ|20|no
+PERSISTENT|Persistent Systems Limited|EQ|No Band|yes
+PETRONET|Petronet LNG Limited|EQ|No Band|yes
+PFC|Power Finance Corporation Limited|EQ|No Band|yes
+PFOCUS|Prime Focus Limited|EQ|20|no
+PGEL|PG Electroplast Limited|EQ|No Band|yes
+PHOENIXLTD|The Phoenix Mills Limited|EQ|No Band|yes
+PIDILITIND|Pidilite Industries Limited|EQ|No Band|yes
+PIIND|PI Industries Limited|EQ|No Band|yes
+PINELABS|Pine Labs Limited|EQ|20|no
+PIRAMALFIN|Piramal Finance Limited|EQ|20|no
+PNB|Punjab National Bank|EQ|No Band|yes
+PNBHOUSING|PNB Housing Finance Limited|EQ|No Band|yes
+POLICYBZR|PB Fintech Limited|EQ|No Band|yes
+POLYCAB|Polycab India Limited|EQ|No Band|yes
+POLYMED|Poly Medicure Limited|EQ|20|no
+POONAWALLA|Poonawalla Fincorp Limited|EQ|20|no
+POWERGRID|Power Grid Corporation of India Limited|EQ|No Band|yes
+POWERINDIA|Hitachi Energy India Limited|EQ|No Band|yes
+PPLPHARMA|Piramal Pharma Limited|EQ|20|no
+PREMIERENE|Premier Energies Limited|EQ|No Band|yes
+PRESTIGE|Prestige Estates Projects Limited|EQ|No Band|yes
+PRIVISCL|Privi Speciality Chemicals Limited|EQ|20|no
+PTCIL|PTC Industries Limited|EQ|20|no
+PVRINOX|PVR INOX Limited|EQ|20|no
+PWL|Physicswallah Limited|EQ|20|no
+RADICO|Radico Khaitan Limited|EQ|No Band|yes
+RAILTEL|Railtel Corporation Of India Limited|EQ|20|no
+RAINBOW|Rainbow Childrens Medicare Limited|EQ|20|no
+RAMCOCEM|The Ramco Cements Limited|EQ|20|no
+RBLBANK|RBL Bank Limited|EQ|No Band|yes
+RECLTD|REC Limited|EQ|No Band|yes
+REDINGTON|Redington Limited|EQ|20|no
+RELIANCE|Reliance Industries Limited|EQ|No Band|yes
+RHIM|RHI MAGNESITA INDIA LIMITED|EQ|20|no
+RITES|RITES Limited|EQ|20|no
+RKFORGE|Ramkrishna Forgings Limited|EQ|20|no
+RPOWER|Reliance Power Limited|EQ|20|no
+RRKABEL|R R Kabel Limited|EQ|20|no
+RUBICON|Rubicon Research Limited|EQ|20|no
+RVNL|Rail Vikas Nigam Limited|EQ|No Band|yes
+SAGILITY|SAGILITY LIMITED|EQ|No Band|yes
+SAIL|Steel Authority of India Limited|EQ|No Band|yes
+SAILIFE|Sai Life Sciences Limited|EQ|20|no
+SAMMAANCAP|Sammaan Capital Limited|EQ|20|no
+SANSERA|Sansera Engineering Limited|EQ|20|no
+SARDAEN|Sarda Energy & Minerals Limited|EQ|20|no
+SBICARD|SBI Cards and Payment Services Limited|EQ|No Band|yes
+SBILIFE|SBI Life Insurance Company Limited|EQ|No Band|yes
+SBIN|State Bank of India|EQ|No Band|yes
+SCHAEFFLER|Schaeffler India Limited|EQ|20|no
+SCHNEIDER|Schneider Electric Infrastructure Limited|EQ|20|no
+SCI|Shipping Corporation Of India Limited|EQ|20|no
+SHREECEM|SHREE CEMENT LIMITED|EQ|No Band|yes
+SHRIPISTON|SPR Auto Technologies Limited|EQ|20|no
+SHRIRAMFIN|Shriram Finance Limited|EQ|No Band|yes
+SHYAMMETL|Shyam Metalics and Energy Limited|EQ|20|no
+SIEMENS|Siemens Limited|EQ|No Band|yes
+SIGNATURE|Signatureglobal (India) Limited|EQ|20|no
+SJVN|SJVN Limited|EQ|20|no
+SOBHA|Sobha Limited|EQ|20|no
+SOLARINDS|Solar Industries India Limited|EQ|No Band|yes
+SONACOMS|Sona BLW Precision Forgings Limited|EQ|No Band|yes
+SRF|SRF Limited|EQ|No Band|yes
+STARHEALTH|Star Health and Allied Insurance Company Limited|EQ|20|no
+SUMICHEM|Sumitomo Chemical India Limited|EQ|20|no
+SUNDARMFIN|Sundaram Finance Limited|EQ|20|no
+SUNPHARMA|Sun Pharmaceutical Industries Limited|EQ|No Band|yes
+SUNTV|Sun TV Network Limited|EQ|20|no
+SUPREMEIND|Supreme Industries Limited|EQ|No Band|yes
+SUZLON|Suzlon Energy Limited|EQ|No Band|yes
+SWANCORP|SWAN CORP LIMITED|EQ|20|no
+SWIGGY|Swiggy Limited|EQ|No Band|yes
+SYNGENE|Syngene International Limited|EQ|20|no
+SYRMA|Syrma SGS Technology Limited|EQ|No Band|yes
+TARIL|Transformers And Rectifiers (India) Limited|EQ|20|no
+TATACAP|Tata Capital Limited|EQ|10|no
+TATACHEM|Tata Chemicals Limited|EQ|20|no
+TATACOMM|Tata Communications Limited|EQ|20|no
+TATACONSUM|TATA CONSUMER PRODUCTS LIMITED|EQ|No Band|yes
+TATAELXSI|Tata Elxsi Limited|EQ|No Band|yes
+TATAINVEST|Tata Investment Corporation Limited|EQ|20|no
+TATAPOWER|Tata Power Company Limited|EQ|No Band|yes
+TATASTEEL|Tata Steel Limited|EQ|No Band|yes
+TATATECH|Tata Technologies Limited|EQ|20|no
+TBOTEK|TBO Tek Limited|EQ|20|no
+TCS|Tata Consultancy Services Limited|EQ|No Band|yes
+TDPOWERSYS|TD Power Systems Limited|EQ|20|no
+TECHM|Tech Mahindra Limited|EQ|No Band|yes
+TECHNOE|Techno Electric & Engineering Company Limited|EQ|20|no
+TEGA|Tega Industries Limited|EQ|20|no
+TEJASNET|Tejas Networks Limited|EQ|20|no
+TENNIND|Tenneco Clean Air India Limited|EQ|20|no
+THANGAMAYL|Thangamayil Jewellery Limited|EQ|10|no
+THERMAX|Thermax Limited|EQ|20|no
+TIINDIA|Tube Investments of India Limited|EQ|No Band|yes
+TIMKEN|Timken India Limited|EQ|20|no
+TITAGARH|TITAGARH RAIL SYSTEMS LIMITED|EQ|20|no
+TITAN|Titan Company Limited|EQ|No Band|yes
+TMCV|Tata Motors Limited|EQ|20|no
+TMPV|Tata Motors Passenger Vehicles Limited|EQ|No Band|yes
+TORNTPHARM|Torrent Pharmaceuticals Limited|EQ|No Band|yes
+TORNTPOWER|Torrent Power Limited|EQ|20|no
+TRENT|Trent Limited|EQ|No Band|yes
+TRIDENT|Trident Limited|EQ|20|no
+TRITURBINE|Triveni Turbine Limited|EQ|20|no
+TTML|Tata Teleservices (Maharashtra) Limited|EQ|20|no
+TVSMOTOR|TVS Motor Company Limited|EQ|No Band|yes
+UBL|United Breweries Limited|EQ|20|no
+UCOBANK|UCO Bank|EQ|20|no
+ULTRACEMCO|UltraTech Cement Limited|EQ|No Band|yes
+UNIONBANK|Union Bank of India|EQ|No Band|yes
+UNITDSPR|United Spirits Limited|EQ|No Band|yes
+UNOMINDA|UNO Minda Limited|EQ|No Band|yes
+UPL|UPL Limited|EQ|No Band|yes
+URBANCO|Urban Company Limited|EQ|20|no
+USHAMART|Usha Martin Limited|EQ|20|no
+UTIAMC|UTI Asset Management Company Limited|EQ|20|no
+VAML|Vedanta Aluminium Metal Limited|EQ|20|no
+VBL|Varun Beverages Limited|EQ|No Band|yes
+VEDL|Vedanta Limited|EQ|No Band|yes
+VEDPOWER|Vedanta Power Limited|EQ|20|no
+VIJAYA|Vijaya Diagnostic Centre Limited|EQ|20|no
+VISL|Vedanta Iron and Steel Limited|EQ|5|no
+VMM|Vishal Mega Mart Limited|EQ|No Band|yes
+VOGL|Vedanta Oil and Gas Limited|EQ|20|no
+VOLTAS|Voltas Limited|EQ|No Band|yes
+VTL|Vardhman Textiles Limited|EQ|20|no
+WAAREEENER|Waaree Energies Limited|EQ|No Band|yes
+WELCORP|Welspun Corp Limited|EQ|20|no
+WELSPUNLIV|Welspun Living Limited|EQ|20|no
+WHIRLPOOL|Whirlpool of India Limited|EQ|20|no
+WIPRO|Wipro Limited|EQ|No Band|yes
+WOCKPHARMA|Wockhardt Limited|EQ|20|no
+YESBANK|Yes Bank Limited|EQ|No Band|yes
+ZEEL|Zee Entertainment Enterprises Limited|EQ|20|no
+ZENSARTECH|Zensar Technologies Limited|EQ|20|no
+ZENTEC|Zen Technologies Limited|EQ|20|no
+ZFCVINDIA|ZF Commercial Vehicle Control Systems India Limited|EQ|20|no
+ZYDUSLIFE|Zydus Lifesciences Limited|EQ|No Band|yes
+ZYDUSWELL|Zydus Wellness Limited|EQ|20|no
