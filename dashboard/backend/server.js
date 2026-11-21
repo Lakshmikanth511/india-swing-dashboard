@@ -1,5 +1,8 @@
 'use strict';
-require('dotenv').config({ path: require('path').join(__dirname, '../.env') });
+// Load .env from dashboard folder or repo root
+const path0 = require('path');
+require('dotenv').config({ path: path0.join(__dirname, '../.env') });
+require('dotenv').config({ path: path0.join(__dirname, '../../.env') }); // repo root fallback
 
 const express   = require('express');
 const cors      = require('cors');
