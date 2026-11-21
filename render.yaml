@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: india-swing-dashboard
+    env: node
+    rootDir: dashboard
+    buildCommand: npm install
+    startCommand: node backend/server.js
+    healthCheckPath: /api/status
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000
+      - key: REFRESH_INTERVAL_MS
+        value: 30000
+      - key: TRADING_ROOT
+        value: /opt/render/project/src
+      - key: SKILLS_ROOT
+        value: /opt/render/project/src/.kiro/skills
+      - key: DB_PATH
+        value: ./database/dashboard.sqlite
